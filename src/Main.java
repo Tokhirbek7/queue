@@ -4,14 +4,6 @@ import java.util.Stack;
 
 public class Main {
     public static void main(String[] args) {
-        QueueReverser reverser = new QueueReverser(5);
-        reverser.insert(10);
-        reverser.insert(20);
-        reverser.insert(30);
-        reverser.insert(40);
-        reverser.insert(50);
-        reverser.reverse(5);
-        System.out.println(reverser);
 
     }
 
